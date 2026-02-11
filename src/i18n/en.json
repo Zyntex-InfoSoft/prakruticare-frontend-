@@ -1,0 +1,102 @@
+{
+    "translation": {
+        "nav": {
+            "home": "Home",
+            "treatments": "Treatments",
+            "about": "About Us",
+            "contact": "Contact"
+        },
+        "hero": {
+            "title": "PrakrutiCare",
+            "subtitle": "Ayurvedic, Herbal, and Nature-based healthcare solutions",
+            "motto": "Health is the First Wealth",
+            "badge": "Ancient Vedic Wisdom",
+            "title_p1": "Authentic",
+            "title_h1": "Vedic",
+            "title_p2": "Natural",
+            "title_h2": "Healing",
+            "description": "PrakrutiCare brings you the essence of traditional Ayurveda. Discover time-tested remedies and expert-verified natural treatments for a balanced life.",
+            "cta_primary": "Vedic Treatments",
+            "cta_secondary": "Our Herbal Heritage",
+            "trust_title": "Pure Ayurvedic Prep",
+            "trust_desc": "100% Native Methods",
+            "float_1": "100% Natural",
+            "float_2": "Verified by Vaidyas"
+        },
+
+        "contact": {
+            "title": "Contact Us",
+            "practitioner1": "Shailesh Tank",
+            "practitioner2": "C.B. Rakhel",
+            "phone": "Mob.",
+            "badge": "Connect With Us",
+            "main_title": "Ready to Start Your Wellness Journey?",
+            "desc": "Our experienced practitioners are here to guide you with authentic, nature-based Ayurvedic solutions. Reach out for personal care and verified remedies.",
+            "location_title": "Location",
+            "location_desc": "Gujarat, India",
+            "trust_title": "Trust",
+            "trust_desc": "10+ Years of Verified Experience",
+            "role": "Senior Practitioner"
+        },
+        "about": {
+            "exp_years": "10+",
+            "exp_text": "Years of Expertise",
+            "subtitle": "Our Philosophy",
+            "title_p1": "Rooted in",
+            "title_h1": "Nature",
+            "title_p2": "and Tradition",
+            "desc": "PrakrutiCare began as a vision to bring authentic Ayurvedic wisdom to the digital age. For over 6-7 years, we have worked closely with local practitioners in Gujarat to source and verify the most effective herbal remedies.",
+            "feature_1_title": "Community Origins",
+            "feature_1_desc": "Started as a family-driven startup in the heart of Gujarat.",
+            "feature_2_title": "Verified Quality",
+            "feature_2_desc": "Every practitioner and remedy is vetted for authenticity."
+        },
+        "footer": {
+            "brand_desc": "Your trusted ecosystem for Ayurvedic, herbal, and natural wellness solutions. Authentic care for a balanced life.",
+            "quick_links": "Quick Links",
+            "contact_info": "Contact Info",
+            "rights": "All rights reserved.",
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service"
+        },
+        "treatments": {
+            "title": "Our Treatments",
+            "gharghathu_upchar": "Home Remedies",
+            "gharghathu_desc": "Traditional home-based remedies passed down through generations for daily wellness.",
+            "desi_oshadhi": "Native Medicine",
+            "desi_desc": "Potent native herbal formulations specifically curated for chronic conditions.",
+            "ailments": {
+                "gas": "Gas",
+                "acidity": "Acidity",
+                "athapo": "Indigestion",
+                "piles": "Piles",
+                "fissure": "Fissure",
+                "stone": "Stone",
+                "diabetes": "Diabetes",
+                "muscle_pain": "Hand, Leg, Back, and Muscle Pain"
+            }
+        },
+        "whatsapp_message": "Hello PrakrutiCare, I would like to know more about {{ailment}} treatment.",
+        "whatsapp_connect": {
+            "badge": "Connect on WhatsApp",
+            "title_p1": "Tell Us Your Problem,",
+            "title_h1": "Get a Remedy",
+            "subtitle": "Select your ailment below and chat directly with our expert practitioner on WhatsApp.",
+            "practitioner_role": "Senior Ayurvedic Practitioner",
+            "response_time": "Quick Response",
+            "chat_btn": "Ask on WhatsApp",
+            "cta_text": "Don't see your problem listed? Don't worry — talk to us directly.",
+            "cta_btn": "Chat on WhatsApp",
+            "ailment_desc": {
+                "gas": "Bloating, gas buildup, and discomfort",
+                "acidity": "Heartburn and acid reflux issues",
+                "athapo": "Indigestion and feeling of heaviness",
+                "piles": "Piles-related pain and discomfort",
+                "fissure": "Fissure and related complications",
+                "stone": "Kidney or gallbladder stones",
+                "diabetes": "Blood sugar control and diabetes care",
+                "muscle_pain": "Hand, leg, back, and muscle pain"
+            }
+        }
+    }
+}
