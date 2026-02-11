@@ -78,7 +78,7 @@ const Contact = () => {
                 <motion.a
                   whileHover={{ scale: 1.03 }}
                   whileTap={{ scale: 0.97 }}
-                  href="https://wa.me/919925963739"
+                  href="https://api.whatsapp.com/send?phone=919925963739"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="contact-wa-btn"

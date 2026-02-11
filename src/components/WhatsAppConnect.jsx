@@ -33,7 +33,8 @@ const WhatsAppConnect = () => {
   const handleWhatsApp = (ailmentKey) => {
     const ailmentName = t(`treatments.ailments.${ailmentKey}`);
     const message = t('whatsapp_message', { ailment: ailmentName });
-    window.open(`https://wa.me/919925963739?text=${encodeURIComponent(message)}`, '_blank');
+    const url = `https://api.whatsapp.com/send?phone=919925963739&text=${encodeURIComponent(message)}`;
+    window.open(url, '_blank');
   };
 
   return (
@@ -139,7 +140,7 @@ const WhatsAppConnect = () => {
           <motion.a
             whileHover={{ scale: 1.04 }}
             whileTap={{ scale: 0.97 }}
-            href="https://wa.me/919925963739"
+            href="https://api.whatsapp.com/send?phone=919925963739"
             target="_blank"
             rel="noopener noreferrer"
             className="wac-cta-btn"
